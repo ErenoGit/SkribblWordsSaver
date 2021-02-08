@@ -28,3 +28,5 @@ Used NuGets and packages:
 - Newtonsoft.Json 12.0.1
 - Selenium.Support 3.141.0
 - Selenium.WebDriver 3.141.0
+
+- geckodriver 0.29.0 - https://github.com/mozilla/geckodriver/releases
