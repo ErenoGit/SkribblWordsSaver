@@ -4,7 +4,6 @@ Program made for the project:
 https://github.com/ErenoGit/SkribblHelperPL
 
 The program is made in C# technology, using the Selenium automated testing framework.
-Code is not perfect, but in this case, time was what mattered, not the quality.
 
 -----------------------------------------------------------------------------------
 
@@ -13,7 +12,6 @@ Program wykonany na potrzeby projektu:
 https://github.com/ErenoGit/SkribblHelperPL
 
 Program wykonany w technologii C#, przy użyciu frameworka do testów automatycznych Selenium.
-Projekt nie jest idealny, lecz akurat w tym przypadku liczył się czas, a nie jakość wykonania.
 
 -----------------------------------------------------------------------------------
 
